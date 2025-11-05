@@ -218,9 +218,9 @@ function App() {
   const generatePhases = (timeline, productStage) => {
     if (timeline === 'short') {
       return [
-        { phase: 'Week 1-2', focus: 'Foundation', activities: 'Set up tracking, finalize messaging, prepare assets' },
+        { phase: 'Week 1-2', focus: 'Foundation', activities: 'Set up tracking, finalise messaging, prepare assets' },
         { phase: 'Week 3-6', focus: 'Launch', activities: 'Execute initial campaigns, start content creation' },
-        { phase: 'Week 7-12', focus: 'Optimize', activities: 'Analyze results, optimize channels, scale what works' }
+        { phase: 'Week 7-12', focus: 'Optimise', activities: 'Analyse results, optimise channels, scale what works' }
       ];
     } else if (timeline === 'medium') {
       return [
@@ -231,9 +231,9 @@ function App() {
     } else {
       return [
         { phase: 'Q1', focus: 'Foundation & Testing', activities: 'Market research, positioning, MVP campaigns' },
-        { phase: 'Q2', focus: 'Launch & Learn', activities: 'Full campaign launch, A/B testing, optimization' },
+        { phase: 'Q2', focus: 'Launch & Learn', activities: 'Full campaign launch, A/B testing, optimisation' },
         { phase: 'Q3', focus: 'Scale & Expand', activities: 'Scale winning channels, add new channels' },
-        { phase: 'Q4', focus: 'Optimize & Refine', activities: 'Advanced optimization, partnership development' }
+        { phase: 'Q4', focus: 'Optimise & Refine', activities: 'Advanced optimisation, partnership development' }
       ];
     }
   };
@@ -715,7 +715,7 @@ GitHub: https://github.com/TheDuGuy
             GTM Strategy Generator
           </h1>
           <p className="text-xl text-gray-300">
-            Answer a few questions to get your personalized go-to-market strategy
+            Answer a few questions to get your personalised go-to-market strategy
           </p>
         </div>
 
