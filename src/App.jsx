@@ -767,10 +767,10 @@ GitHub: https://github.com/TheDuGuy
 
         {/* Footer */}
         <div className="text-center mt-8">
-          <p className="text-gray-400 text-sm">
-            Built by <a href="https://github.com/TheDuGuy" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:text-blue-300 transition-colors">Edou Mota</a>
+          <p className="text-gray-300 text-sm">
+            Built by <a href="https://github.com/TheDuGuy" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-300 transition-colors font-medium">Edou Mota</a>
           </p>
-          <p className="text-gray-500 text-xs mt-1">
+          <p className="text-gray-300 text-xs mt-1">
             RevOps & Marketing Automation Specialist
           </p>
         </div>
