@@ -771,7 +771,7 @@ GitHub: https://github.com/TheDuGuy
             Built by <a href="https://github.com/TheDuGuy" target="_blank" rel="noopener noreferrer" className="text-white hover:text-blue-300 transition-colors font-medium">Edou Mota</a>
           </p>
           <p className="text-gray-300 text-xs mt-1">
-            RevOps & Marketing Automation Specialist
+            CRM and Marketing Automation
           </p>
         </div>
       </div>
