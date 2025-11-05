@@ -1,16 +1,46 @@
-# React + Vite
+# GTM Strategy Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive tool for generating personalised go-to-market strategies based on product type, target market, and business goals.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Step-by-step questionnaire** for product and market insights
+- **Positioning statement generation** based on your inputs
+- **Detailed ICP profiles** with decision-makers and sales cycles
+- **Channel recommendations** based on budget and target market
+- **Tactical playbooks** aligned with primary business goals
+- **Exportable strategy documents** for team collaboration
 
-## React Compiler
+## Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Visit [https://gtm-strategy-generator.vercel.app](https://gtm-strategy-generator.vercel.app)
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 18
+- Vite
+- Tailwind CSS
+- Rules-based strategy generation
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## How It Works
+
+1. Answer 5 questions about your product, market, budget, and goals
+2. The tool generates a comprehensive GTM strategy including:
+   - Positioning statement
+   - Ideal Customer Profile (ICP)
+   - Recommended channels
+   - Key tactics
+   - Success metrics
+   - Phased timeline
+3. Export your strategy as a text document
+
+## Built By
+
+[Edou Mota](https://github.com/TheDuGuy) - RevOps & Marketing Automation Specialist
